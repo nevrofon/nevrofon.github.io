@@ -1,9 +1,10 @@
 body {
-    margin: 0px;
+    margin: 0px auto;
+    max-width: 800px;
 }
 
 .banner {
-    font-size: 17.55vw;
+    font-size: min(17.55vw, 141px);
     font-family: 'Gruppo', cursive;
 }
 
