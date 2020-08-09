@@ -1,6 +1,7 @@
 body {
     margin: 0px auto;
     max-width: 800px;
+    background-image: url("images/scroller2.png");
 }
 
 .banner {
