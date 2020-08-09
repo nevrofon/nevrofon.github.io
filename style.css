@@ -2,14 +2,19 @@ body {
     margin: 0px auto;
     max-width: 800px;
     background-image: url("images/scroller2.png");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: top;
 }
 
 .banner {
     font-size: min(17.55vw, 141px);
     font-family: 'Gruppo', cursive;
+    color: silver;
 }
 
 p {
     font-size: 24px;
     font-family: 'Open Sans', sans-serif;
+    color: silver;
 }
